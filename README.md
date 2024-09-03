@@ -1,18 +1,18 @@
 ### Retail Sales and Customer Behaviours Analysis
 1. About Dataset
-   - Data source: https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Futkalk%2Flarge-retail-data-set-for-eda \
-   - Number columns of dataset:  78 \
-   - Number rows of dataset:  1000000 \
+   - Data source: https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Futkalk%2Flarge-retail-data-set-for-eda 
+   - Number columns of dataset:  78 
+   - Number rows of dataset:  1000000 
 2. Transaction Analysis
-   - transaction_id: Unique identifier for each transaction.\
-   - transaction_date: Date of the transaction.\
-   - product_id: Unique identifier for each product.\
-   - product_category: Category of the product (e.g., Electronics, Clothing, Groceries).\
-   - quantity: Quantity of the product purchased.\
-   - unit_price: Price per unit of the product.\
-   - discount_applied: Discount applied on the transaction.\
-   - payment_method: Payment method used (e.g., Credit Card, Debit Card, Cash).\
-   - store_location: Location of the store where the purchase was made.\
+   - transaction_id: Unique identifier for each transaction.
+   - transaction_date: Date of the transaction.
+   - product_id: Unique identifier for each product.
+   - product_category: Category of the product (e.g., Electronics, Clothing, Groceries).
+   - quantity: Quantity of the product purchased.
+   - unit_price: Price per unit of the product.
+   - discount_applied: Discount applied on the transaction.
+   - payment_method: Payment method used (e.g., Credit Card, Debit Card, Cash).
+   - store_location: Location of the store where the purchase was made.
    ![image](https://github.com/user-attachments/assets/0d2020d6-2dc6-4c48-a011-76e69a84dcd0)
 * In the first half of the year, discount codes and revenue tend to move in the same direction. However, in the second half of the year, they move in the opposite direction. This suggests that sellers use discount codes to attract customers because typically, at the end of the previous year, customers have spent their money on preparing for the new year. Thus, in the first six months, there is less demand for purchasing, so discount policies are implemented to boost revenue and achieve profitability.
 * August is the month with the highest revenue of the year, but discount codes are relatively low on average. This suggests that items most needed in August are in high demand, making it an optimal time to achieve the highest annual profits.
@@ -28,17 +28,17 @@
 ![image](https://github.com/user-attachments/assets/8fa00e85-8f07-4d0c-88a0-ebe02cc2ed0a)
 ![image](https://github.com/user-attachments/assets/b171272c-3655-4997-a652-9ee8d83fa236)
 3. Customer Information
-  - customer_id: Unique identifier for each customer. \
-  - age: Age of the customer.\
-  - gender: Gender of the customer (e.g., Male, Female, Other).\
-  - income_bracket: Income bracket of the customer (e.g., Low, Medium, High).\
-  - loyalty_program: Whether the customer is part of a loyalty program (Yes/No).\
-  - membership_years: Number of years the customer has been a member.\
-  - churned: Whether the customer has churned (Yes/No) - Target for classification.\
-  - marital_status: Marital status of the customer.\
-  - number_of_children: Number of children the customer has.\
-  - education_level: Education level of the customer (e.g., High School, Bachelor's, Master's).\
-  - occupation: Occupation of the customer.\
+  - customer_id: Unique identifier for each customer.
+  - age: Age of the customer.
+  - gender: Gender of the customer (e.g., Male, Female, Other).
+  - income_bracket: Income bracket of the customer (e.g., Low, Medium, High).
+  - loyalty_program: Whether the customer is part of a loyalty program (Yes/No).
+  - membership_years: Number of years the customer has been a member.
+  - churned: Whether the customer has churned (Yes/No) - Target for classification.
+  - marital_status: Marital status of the customer.
+  - number_of_children: Number of children the customer has.
+  - education_level: Education level of the customer (e.g., High School, Bachelor's, Master's).
+  - occupation: Occupation of the customer.
   ![image](https://github.com/user-attachments/assets/69b33a5e-f1f1-43ef-986f-a34f5c570ed3)
   ![image](https://github.com/user-attachments/assets/e19c1700-c64e-4e9f-be7a-98ec1661036a)
   ![image](https://github.com/user-attachments/assets/0e40187d-8165-4a67-a627-7fb3793481ca)
