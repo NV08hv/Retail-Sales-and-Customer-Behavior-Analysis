@@ -57,6 +57,9 @@
 - Test whether there is a significant difference in the mean values among three data groups. The significance level is 0.05.
 * H0 (Null Hypothesis): There is no difference between the three groups.
 * H1 (Alternative Hypothesis): There is a difference between the three groups
+F-Statistic: 0.27716609909000123
+P-Value: 0.7579480209758037
+-> The result is not statistically significant.
 
 
 
