@@ -1,5 +1,7 @@
 ### Retail Sales and Customer Behaviours Analysis
 ![image](https://github.com/user-attachments/assets/839d2ea8-e25f-41f4-8b80-45fa40d273cf)
+![image](https://github.com/user-attachments/assets/700a77b7-2904-4a1b-84e0-b7514dc06697)
+![image](https://github.com/user-attachments/assets/9e2b3314-4737-44fd-95ea-04a86944cbdd)
 
 1. About Dataset
    - Data source: https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Futkalk%2Flarge-retail-data-set-for-eda 
