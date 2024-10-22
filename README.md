@@ -1,4 +1,6 @@
 ### Retail Sales and Customer Behaviours Analysis
+![image](https://github.com/user-attachments/assets/839d2ea8-e25f-41f4-8b80-45fa40d273cf)
+
 1. About Dataset
    - Data source: https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Futkalk%2Flarge-retail-data-set-for-eda 
    - Number columns of dataset:  78 
